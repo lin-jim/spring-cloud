@@ -11,7 +11,7 @@ spring:
       server:
         git:
           uri: https://github.com/lin-jim/spring-cloud
-          searchPaths: helloworld.config
+          searchPaths: helloworldConfig
           username: lin-jim
           password: Ljm040...
   application:
