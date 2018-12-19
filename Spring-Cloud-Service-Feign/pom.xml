@@ -9,9 +9,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.udcloud.jim</groupId>
-	<artifactId>Spring-Cloud-Config-Server</artifactId>
+	<artifactId>Spring-Cloud-Service-Feign</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring-Cloud-Config-Server</name>
+	<name>Spring-Cloud-Service-Feign</name>
 	<description>spring-cloud</description>
 
 	<properties>
@@ -46,7 +46,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-config-server</artifactId>
+			<artifactId>spring-cloud-starter-feign</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>com.alibaba</groupId>
